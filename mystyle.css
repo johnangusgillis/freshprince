@@ -1,0 +1,11 @@
+h1 {
+	color: red;
+	text-align: left
+	font: 40px arial, sans-serif;
+}
+body {
+	font: calibri;
+	font-size: 220%;
+	background-color: blue;
+	text-align:center
+}
